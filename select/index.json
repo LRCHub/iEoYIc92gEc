@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Never ending saga",
+  "base_artist": "巽幸太郎",
+  "createdAt": "2026-03-30T05:29:32.877160Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never ending saga",
+      "artist": "巽幸太郎",
+      "has_synced": false,
+      "path": "select/pl_01_Never_ending_saga_巽幸太郎.txt"
+    }
+  ]
+}
